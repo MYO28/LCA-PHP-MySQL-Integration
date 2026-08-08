@@ -51,4 +51,4 @@ INSERT INTO staff (first_name, last_name, department, email) VALUES
 
 ## How to Run
 
-Start Apache and MySQL in the XAMPP Control Panel, then navigate to `http://localhost/week4_ex01_php_mysql_integration/index.php` in a browser.
+Start Apache and MySQL in the XAMPP Control Panel (as administrator), then navigate to `http://localhost/week4_ex01_php_mysql_integration/index.php` in a browser.
